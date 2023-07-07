@@ -2,7 +2,7 @@
  Time calculation app
 
 ## Live Demo Link
-<a href="https://melihkocc.github.io/DovizApp/">Demo Link</a>
+<a href="https://melihkocc.github.io/TimeCalculatingApp/">Demo Link</a>
 
 ## Technologies
 · HTML<br>
